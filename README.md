@@ -1,12 +1,12 @@
 # BME450-project
-BME 450 Project - Mae &amp; Ranya
+BME 450 Project - Mae, Ranya, &amp; Lucy
 # Title
 
 “Leveraging Deep Learning for Head Trauma Classification”
 
 ## Team members
 
-ranyapendyala (ranyapendyala), Mae Kinst (mkinst)
+ranyapendyala (ranyapendyala), Mae Kinst (mkinst), Lucy Baker
 
 ## Project description
 
