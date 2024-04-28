@@ -6,7 +6,7 @@ BME 450 Project - Mae, Ranya, &amp; Lucy
 
 ## Team members
 
-ranyapendyala (ranyapendyala), Mae Kinst (mkinst), Lucy Baker
+ranyapendyala (ranyapendyala), Mae Kinst (mkinst), Lucy Baker (baker664)
 
 ## Project description
 
@@ -14,4 +14,4 @@ Head trauma is a critical medical condition with potentially severe consequences
 
 We aim to develop a deep learning model to diagnose traumatic brain injuries, using a dataset of CT scans, MRI scans, and X-rays of patients with head trauma. We will then evaluate the trained deep learning model using a separate test dataset containing labeled medical images in order to assess the models’ accuracy and sensitivity. 
 
-The architecture of this network is image classification, with the parameter choices being normal brain scans and brain scans with traumatic brain injuries (TBI). To train the network, the datasets that we will be utilizing will contain X-rays, CT scans, and MRIs in order to assess patient data. Various datasets we plan to use or look at are The Medical Information Mart for Intensive Care (MIMIC) Database, The Radiological Society of North America (RSNA) Pediatric Bone Age Challenge Dataset, The Cancer Imaging Archive (TCIA), The Medical Segmentation Decathlon (MSD) Challenge Dataset, and Kaggle Datasets.
+The architecture of this network is image classification, with the parameter choices being normal brain scans and brain scans with traumatic brain injuries (TBI). To train the network, we will be using a Kaggle Dataset that contains X-rays, CT scans, or MRI scans in order to assess patient data. 
